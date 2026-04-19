@@ -23,5 +23,5 @@ Ensure you have Python installed, then install the required dependencies:
 pip install pandas yfinance matplotlib
 ```
 ## 👁️ Appearance
-<img width="622" height="471" alt="image" src="https://github.com/user-attachments/assets/33cbc61c-8faa-4301-a2d4-4f1ccaf3f9fe" />
-<img width="368" height="122" alt="image" src="https://github.com/user-attachments/assets/a5e2011c-ab27-4859-b07b-30fcbd87253d" />
+<img width="622" height="471" alt="image" src="https://github.com/user-attachments/assets/33cbc61c-8faa-4301-a2d4-4f1ccaf3f9fe" /> <img width="368" height="122" alt="image" src="https://github.com/user-attachments/assets/a5e2011c-ab27-4859-b07b-30fcbd87253d" />
+
